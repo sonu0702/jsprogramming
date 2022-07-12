@@ -1,5 +1,6 @@
 //pairs and triplet sums to target
 
+//pairs sum to given target
 // let nums = [2, 7, 10, 1, 11, 15, 9]
 // let target = 11
 
@@ -19,6 +20,8 @@
 // }
 // console.log(pairs)
 
+//triplet sum to given target
+//reference - https://www.geeksforgeeks.org/javascript-program-to-find-a-triplet-that-sum-to-a-given-value/
 let nums = [2, 7, 10, 1, 11, 15, 9];
 let target = 10;
 
