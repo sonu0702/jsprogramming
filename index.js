@@ -1,4 +1,4 @@
-//pairs and triplet sums to target
+//pairs and triplets sums to target
 
 //pairs sum to given target
 // let nums = [2, 7, 10, 1, 11, 15, 9]
